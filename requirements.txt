@@ -1,0 +1,6 @@
+langchain
+langchain community
+chromadb
+wikipedia-api
+gradio
+transformers
